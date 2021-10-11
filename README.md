@@ -2,7 +2,7 @@
  <div style="display: inline_block;">
   <h1> 
     Oie, eu sou o Kaio!
-    <a href="www.linkedin.com/in/kaiopiola" target="_blank"><img align="right" alt="kaiopiola-icon" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/kaiopiola/kaiopiola/main/icon_transparente.png"> </a> </h1>
+    <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img align="right" alt="kaiopiola-icon" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/kaiopiola/kaiopiola/main/icon_transparente.png"> </a> </h1>
   
   <div style="display: inline_block"><br>
 <img align="center" alt="Kaio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
@@ -48,7 +48,7 @@
 <div align="center"> 
   <a href="https://instagram.com/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaio.piola@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 <!--
