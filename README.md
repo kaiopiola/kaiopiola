@@ -2,7 +2,7 @@
  <div style="display: inline_block;">
   <h1> 
     Oie, eu sou o Kaio!
-    <a href="https://www.linkedin.com/in/kaio-piola-871348169/" target="_blank"><img align="right" alt="kaiopiola-icon" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/kaiopiola/kaiopiola/main/icon_transparente.png"> </a> </h1>
+    <a href="www.linkedin.com/in/kaiopiola" target="_blank"><img align="right" alt="kaiopiola-icon" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/kaiopiola/kaiopiola/main/icon_transparente.png"> </a> </h1>
   
   <div style="display: inline_block"><br>
 <img align="center" alt="Kaio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
