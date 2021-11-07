@@ -1,8 +1,13 @@
 
  <div style="display: inline_block;">
   <h1> 
-    Oie, eu sou o Kaio!
-    <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img align="right" alt="kaiopiola-icon" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/kaiopiola/kaiopiola/main/icon_transparente.png"> </a> </h1>
+    Oiê, eu sou o Kaio!
+    <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img align="right" alt="kaiopiola-icon" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/kaiopiola/kaiopiola/main/icon_transparente.png"> </a>
+ </h1>
+
+ <p>Seja bem-vindo(a) ao meu perfil do GitHub!</p>
+ <p>Aqui você pode encontrar meus projetos pessoais e repositórios públicos onde colaborei!</p>
+ <p>Sinta-se à vontade para explorar os projetos e ou me contatar se necessário! Meus contatos se encontram no menu à esquerda, no final deste documento, e em meu <a href="https://beacons.ai/kaiopiola" target="_blank">Beacons</a>!</p>
   
   <div style="display: inline_block"><br>
 <img align="center" alt="Kaio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
