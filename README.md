@@ -8,6 +8,12 @@
  <p>Seja bem-vindo(a) ao meu perfil do GitHub!</p>
  <p>Aqui você pode encontrar meus projetos pessoais e repositórios públicos onde colaborei!</p>
  <p>Sinta-se à vontade para explorar os projetos e ou me contatar se necessário! Meus contatos se encontram no menu à esquerda, no final deste documento, e em meu <a href="https://beacons.ai/kaiopiola" target="_blank">Beacons</a>!</p>
+ 
+ <p>Algumas coisas que estou fazendo atualmente:</p>
+ <ul style="list-style-type:none;">
+    <li>🔭 Trabalhando no projeto Blog-CMS, o qual darei mais detalhes e tornarei código aberto em breve!</li>
+    <li>🌱 Estudando Fundamentos de Linux pela <a href="https://github.com/4linux">4Linux</a></li>
+  </ul>
   
   <div style="display: inline_block"><br>
 <img align="center" alt="Kaio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
