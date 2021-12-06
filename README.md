@@ -11,7 +11,7 @@
  
  <p>Algumas coisas que estou fazendo atualmente:</p>
  <ul style="list-style-type:none;">
-    <li>🔭 Trabalhando no projeto <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>, o qual darei mais detalhes e tornarei código aberto em breve!</li>
+    <li>🔭 Trabalhando no projeto <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>, o qual todos podem colaborar!</li>
     <li>🌱 Estudando Fundamentos de Linux pela <a href="https://github.com/4linux">4Linux</a></li>
   </ul>
   
