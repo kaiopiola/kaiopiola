@@ -12,6 +12,7 @@
  <p>Algumas coisas que estou fazendo atualmente:</p>
  <ul style="list-style-type:none;">
     <li>🔭 Trabalhando no projeto <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>, o qual todos podem colaborar!</li>
+    <li>🔍 Trabalhando nos plugins de código aberto <a href="https://github.com/kaiopiola/keygen-plugin">Keygen</a> e <a href="https://github.com/kaiopiola/seo-plugin">SEO</a></li>
     <li>🌱 Estudando Fundamentos de Linux pela <a href="https://github.com/4linux">4Linux</a></li>
   </ul>
   
@@ -28,7 +29,7 @@
         <img align="center" alt="Kaio-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
         <img align="center" alt="Kaio-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg">
         <img align="center" alt="Kaio-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg">
-
+<img align="center" alt="Kaio-Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/composer/composer-original.svg">
     
     
     
@@ -45,7 +46,21 @@
 </div>
 
 
-<div align="center">
+
+
+ <div style="display: inline_block;">
+  <h2> 
+    Meus plugins
+ </h2>
+ <ul>
+  <li><a target="_blank" href="https://github.com/kaiopiola/keygen-plugin">Keygen [PHP]</a></li>
+  <li><a target="_blank" href="https://github.com/kaiopiola/seo-plugin">SEO [PHP] (Em desenvolvimento)</a></li>
+ </ul>
+ </div>
+
+
+
+<!--<div align="center">
   <a href="https://github.com/kaiopiola">
     <table style="border: none !important;" cellspacing="0" cellpadding="0">
   <tr style="border: none !important;">
@@ -54,7 +69,7 @@
     </tr>
   </table>
   </a>
-</div>
+</div>-->
 
 <div align="center"> 
   <a href="https://instagram.com/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
