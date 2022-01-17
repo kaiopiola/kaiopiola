@@ -54,7 +54,7 @@
  </h2>
  <ul>
   <li><a target="_blank" href="https://github.com/kaiopiola/keygen-plugin">Keygen [PHP]</a></li>
-  <li><a target="_blank" href="https://github.com/kaiopiola/seo-plugin">SEO [PHP] (Em desenvolvimento)</a></li>
+  <li><a target="_blank" href="https://github.com/kaiopiola/seo-plugin">SEO [PHP]</a></li>
  </ul>
  </div>
 
