@@ -12,7 +12,7 @@
  <p>Algumas coisas que estou fazendo atualmente:</p>
  <ul style="list-style-type:none;">
     <li>🔭 Trabalhando no projeto <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>, o qual todos podem colaborar!</li>
-    <li>🔍 Trabalhando nos plugins de código aberto <a href="https://github.com/kaiopiola/keygen-plugin">Keygen</a> e <a href="https://github.com/kaiopiola/seo-plugin">SEO</a></li>
+    <li>🔍 Trabalhando nos plugins de código aberto <a href="https://github.com/kaiopiola/keygen-package">Keygen</a> e <a href="https://github.com/kaiopiola/seo-package">SEO</a></li>
     <li>🌱 Estudando Fundamentos de Linux pela <a href="https://github.com/4linux">4Linux</a></li>
   </ul>
   
@@ -53,8 +53,8 @@
     Meus plugins
  </h2>
  <ul>
-  <li><a target="_blank" href="https://github.com/kaiopiola/keygen-plugin">Keygen [PHP]</a></li>
-  <li><a target="_blank" href="https://github.com/kaiopiola/seo-plugin">SEO [PHP]</a></li>
+  <li><a target="_blank" href="https://github.com/kaiopiola/keygen-package">Keygen [PHP]</a></li>
+  <li><a target="_blank" href="https://github.com/kaiopiola/seo-package">SEO [PHP]</a></li>
  </ul>
  </div>
 
