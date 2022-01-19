@@ -1,19 +1,19 @@
 
  <div style="display: inline_block;">
   <h1> 
-    Oiê, eu sou o Kaio!
+    Hey, I'm Kaio!
     <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img align="right" alt="kaiopiola-icon" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/kaiopiola/kaiopiola/main/icon_transparente.png"> </a>
  </h1>
 
- <p>Seja bem-vindo(a) ao meu perfil do GitHub!</p>
- <p>Aqui você pode encontrar meus projetos pessoais e repositórios públicos onde colaborei!</p>
- <p>Sinta-se à vontade para explorar os projetos e ou me contatar se necessário! Meus contatos se encontram no menu à esquerda, no final deste documento, e em meu <a href="https://beacons.ai/kaiopiola" target="_blank">Beacons</a>!</p>
+ <p>Welcome to my GitHub profile!</p>
+ <p>Here you can find my projects and other repositories where I worked!</p>
+ <p>Feel free to explore the projects and contact me if needed! My contacts can be found in the GitHub contacts, at the end of this document, and in my <a href="https://kaiopiola.dev" target="_blank">own website</a>!</p>
  
- <p>Algumas coisas que estou fazendo atualmente:</p>
+ <p>Some things I'm currently doing:</p>
  <ul style="list-style-type:none;">
-    <li>🔭 Trabalhando no projeto <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>, o qual todos podem colaborar!</li>
-    <li>🔍 Trabalhando nos plugins de código aberto <a href="https://github.com/kaiopiola/keygen-package">Keygen</a> e <a href="https://github.com/kaiopiola/seo-package">SEO</a></li>
-    <li>🌱 Estudando Fundamentos de Linux pela <a href="https://github.com/4linux">4Linux</a></li>
+    <li>🔭 Working on the project <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>!</li>
+    <li>🔍 Working on open source PHP packages <a href="https://github.com/kaiopiola/keygen-package">Keygen</a> and <a href="https://github.com/kaiopiola/seo-package">SEO</a></li>
+    <li>🌱 Studying Linux Fundamentals at <a href="https://github.com/4linux">4Linux</a></li>
   </ul>
   
   <div style="display: inline_block"><br>
@@ -50,7 +50,7 @@
 
  <div style="display: inline_block;">
   <h2> 
-    Meus plugins
+    My packages
  </h2>
  <ul>
   <li><a target="_blank" href="https://github.com/kaiopiola/keygen-package">Keygen [PHP]</a></li>
