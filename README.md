@@ -6,6 +6,7 @@
  </h1>
 
  <p>Welcome to my GitHub profile!</p>
+ <img src="https://komarev.com/ghpvc/?username=kaiopiola&color=green" style="display:none">
  <p>Here you can find my projects and other repositories where I worked!</p>
  <p>Feel free to explore the projects and contact me if needed! My contacts can be found in the GitHub contacts, at the end of this document, and in my <a href="https://kaiopiola.dev" target="_blank">own website</a>!</p>
  
