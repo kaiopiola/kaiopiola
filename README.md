@@ -14,7 +14,7 @@
  <ul style="list-style-type:none;">
     <li>📍Living in Itupeva/SP - Brazil</li>
     <li>🔭 Working on the project <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>!</li>
-    <li>🔍 Working on open source PHP packages <a href="https://github.com/kaiopiola/keygen-package">Keygen</a> and <a href="https://github.com/kaiopiola/seo-package">SEO</a></li>
+<!--     <li>🔍 Working on open source PHP packages <a href="https://github.com/kaiopiola/keygen-package">Keygen</a> and <a href="https://github.com/kaiopiola/seo-package">SEO</a></li> -->
     <li>🌱 Studying Linux Fundamentals at <a href="https://github.com/4linux">4Linux</a></li>
   </ul>
   
@@ -52,7 +52,7 @@
 
  <div style="display: inline_block;">
   <h2> 
-    My packages
+    My PHP packages
  </h2>
  <ul>
   <li><a target="_blank" href="https://github.com/kaiopiola/keygen-package">Keygen [PHP]</a></li>
