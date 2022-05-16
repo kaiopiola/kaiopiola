@@ -12,10 +12,11 @@
  
  <p>Some things I'm currently doing:</p>
  <ul style="list-style-type:none;">
-    <li>📍Living in Itupeva/SP - Brazil</li>
-    <li>🔭 Working on the project <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>!</li>
+    <li>📍Living in Brazil</li>
+    <!--<li>🔭 Working on the project <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>!</li>-->
 <!--     <li>🔍 Working on open source PHP packages <a href="https://github.com/kaiopiola/keygen-package">Keygen</a> and <a href="https://github.com/kaiopiola/seo-package">SEO</a></li> -->
-    <li>🌱 Studying Linux Fundamentals at <a href="https://github.com/4linux">4Linux</a></li>
+    <li>🎓 Studying System Analysis and Development at <a href="https://www.cruzeirodosulvirtual.com.br/">Cruzeiro do Sul Virtual</a></li>
+    <!--<li>🌱 Studying Linux Fundamentals at <a href="https://github.com/4linux">4Linux</a></li>-->
   </ul>
   
   <div style="display: inline_block"><br>
@@ -77,6 +78,12 @@
   <a href="https://instagram.com/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaio.piola@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<hr>
+
+<div align="center"> 
+  <i>I believe in elePHPant supremacy! 🐘</i>
 </div>
   
 <!--
