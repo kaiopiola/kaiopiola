@@ -10,6 +10,10 @@
  <p>Here you can find my projects and other repositories where I worked!</p>
  <p>Feel free to explore the projects and contact me if needed! My contacts can be found in the GitHub contacts, at the end of this document, and in my <a href="https://kaiopiola.dev" target="_blank">own website</a>!</p>
  
+ <p>All repositories listed here are open source and can be used according to the license of each one (LICENSE file).</p>
+
+<p>You can help us with projects by collaborating with code or answering questions in the discussion sections or issues of each project.</p>
+ 
  <p>Some things I'm currently doing:</p>
  <ul style="list-style-type:none;">
     <li>📍Living in Brazil</li>
