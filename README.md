@@ -61,6 +61,7 @@
     My PHP packages
  </h2>
  <ul>
+  <li><a target="_blank" href="https://github.com/kaiopiola/bringbackmix">BringBackMix [Laravel PHP]</a></li>
   <li><a target="_blank" href="https://github.com/kaiopiola/keygen-package">Keygen [PHP]</a></li>
   <li><a target="_blank" href="https://github.com/kaiopiola/seo-package">SEO [PHP]</a></li>
  </ul>
