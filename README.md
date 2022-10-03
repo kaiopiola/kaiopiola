@@ -91,6 +91,12 @@
 <div align="center"> 
   <i>I believe in elePHPant supremacy! 🐘</i>
 </div>
+
+<br>
+
+<div style="display:flex;" align="center">
+<a href="https://my.fsf.org/donate"><img src="https://static.fsf.org/nosvn/appeal2022/spring/social-banner.png" alt="Find your reason to support free software."></a>
+</div>
   
 <!--
 **kaiopiola/kaiopiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
