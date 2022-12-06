@@ -65,6 +65,15 @@
   <li><a target="_blank" href="https://github.com/kaiopiola/seo-package">SEO [PHP]</a></li>
  </ul>
  </div>
+ 
+ <div style="display: inline_block;">
+  <h2> 
+    My Articles (PTBR)
+ </h2>
+ <ul>
+  <li><a target="_blank" href="https://www.tabnews.com.br/KaioPiola/guia-definitivo-para-estruturacao-de-commits">📝 Guia Definitivo para Estruturação de Commits</a></li>
+ </ul>
+ </div>
 
 
 
