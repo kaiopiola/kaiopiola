@@ -23,7 +23,7 @@
     <!--<li>🌱 Studying Linux Fundamentals at <a href="https://github.com/4linux">4Linux</a></li>-->
   </ul>
  
- <p>I'm also translator and proofreader for <a href="https://www.debian.org/" target="_blank">The Debian Project</a> for the pt_BR language.</p>
+ <p>I'm also translator and reviewer for <a href="https://www.debian.org/" target="_blank">The Debian Project</a> for the pt_BR language.</p>
   
   <div style="display: inline_block"><br>
 <img align="center" alt="Kaio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
