@@ -22,6 +22,8 @@
     <li>🎓 Studying System Analysis and Development at <a href="https://www.cruzeirodosulvirtual.com.br/">Cruzeiro do Sul Virtual</a></li>
     <!--<li>🌱 Studying Linux Fundamentals at <a href="https://github.com/4linux">4Linux</a></li>-->
   </ul>
+ 
+ <p>I'm also translator and proofreader for <a href="https://www.debian.org/" target="_blank">The Debian Project</a> for the pt_BR language.</p>
   
   <div style="display: inline_block"><br>
 <img align="center" alt="Kaio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
@@ -42,16 +44,6 @@
    <img align="center" alt="Kaio-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
    
   </div>
- 
-
-  
-  <!--
-  <ul style="list-style-type:none;">
-    <li>🔭 Atualmente trabalhando em <a href="#link">Projeto</a></li>
-    <li>🌱 Estudando Flutter</li>
-    <li><a href="#link">📫 Entre em contato comigo</a></li>
-  </ul>
--->
 </div>
 
 
@@ -89,8 +81,9 @@
   </a>
 </div>-->
 
-<div align="center"> 
-  <a href="https://instagram.com/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center">
+ <a href="https://t.me/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23314d8f?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <!--<a href="https://instagram.com/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
   <a href = "mailto:kaio.piola@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
