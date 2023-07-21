@@ -64,7 +64,7 @@
     My Articles (PTBR)
  </h2>
  <ul>
-  <li><a target="_blank" href="https://www.tabnews.com.br/KaioPiola/guia-definitivo-para-estruturacao-de-commits">📝 Guia Definitivo para Estruturação de Commits</a></li>
+  <li><a target="_blank" href="https://www.tabnews.com.br/KaioPiola/guia-definitivo-para-estruturacao-de-commits">📝 Guia Definitivo para Estruturação de Commits</a> / <a href="https://gist.github.com/kaiopiola/41ed9844cf35e44031a0d1601161d6c4">GIST</a></li>
  </ul>
  </div>
 
