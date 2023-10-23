@@ -20,6 +20,7 @@
     <!--<li>🔭 Working on the project <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>!</li>-->
 <!--     <li>🔍 Working on open source PHP packages <a href="https://github.com/kaiopiola/keygen-package">Keygen</a> and <a href="https://github.com/kaiopiola/seo-package">SEO</a></li> -->
     <li>🎓 Studying System Analysis and Development at <a href="https://www.cruzeirodosulvirtual.com.br/">Cruzeiro do Sul Virtual</a></li>
+    <li>🐘 Improving my PHP skills</li>
     <!--<li>🌱 Studying Linux Fundamentals at <a href="https://github.com/4linux">4Linux</a></li>-->
   </ul>
  
