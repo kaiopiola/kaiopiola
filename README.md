@@ -88,6 +88,13 @@
   <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div>
+ <p>For e-mail contact, please prefer sending encrypted and signed mail if possible.</br>
+ My current active PGP key is <code>rsa4096/2B8B27C966DFA994</code></br>
+ You can download my public key by <a href="https://kaiopiola.dev/rsa-key.txt">clicking here</a>.
+</p>
+</div>
+
 <hr>
 
 <div align="center"> 
