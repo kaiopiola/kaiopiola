@@ -69,6 +69,15 @@
  </ul>
  </div>
 
+  <div style="display: inline_block;">
+  <h2> 
+    My Articles (EN)
+ </h2>
+ <ul>
+  <li><a target="_blank" href="https://blog.kaiopiola.dev/2023/11/definitive-guide-to-structuring-commits.html">📝 Definitive Guide to Structuring Commits</a></li>
+ </ul>
+ </div>
+
 
 
 <!--<div align="center">
