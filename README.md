@@ -82,6 +82,16 @@
  </ul>
  </div>
 
+  <div style="display: inline_block;">
+  <h2> 
+    Useful Links
+ </h2>
+ <ul>
+  <li><a target="_blank" href="https://github.com/ocodista/trampar-de-casa/blob/main/manifesto.md">Manifesto do Trabalho Remoto</a></li>
+  <li><a target="_blank" href="https://www.gnu.org/gnu/manifesto.pt-br.html">Manifesto GNU</a></li>
+ </ul>
+ </div>
+
 
 
 <!--<div align="center">
