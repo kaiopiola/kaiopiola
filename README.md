@@ -17,7 +17,7 @@
  <p>Some things I'm currently doing:</p>
  <ul style="list-style-type:none;">
     <li>📍Living in Brazil</li>
-    <!--<li>🔭 Working on the project <a href="https://github.com/kaiopiola/Blog-CMS">Blog-CMS</a>!</li>-->
+    <li>🔭 Working on the project <a href="https://github.com/kaiopiola/pagarme-php">Blog-CMS</a>!</li>
 <!--     <li>🔍 Working on open source PHP packages <a href="https://github.com/kaiopiola/keygen-package">Keygen</a> and <a href="https://github.com/kaiopiola/seo-package">SEO</a></li> -->
     <li>🎓 Studying System Analysis and Development at <a href="https://www.cruzeirodosulvirtual.com.br/">Cruzeiro do Sul Virtual</a></li>
     <li>🐘 Improving my PHP skills</li>
@@ -59,6 +59,7 @@
     My PHP packages
  </h2>
  <ul>
+  <li><a target="_blank" href="https://github.com/kaiopiola/pagarme-php">Pagarme [PHP] (On development)</a></li>
   <li><a target="_blank" href="https://github.com/kaiopiola/keygen-package">Keygen [PHP]</a></li>
   <li><a target="_blank" href="https://github.com/kaiopiola/seo-package">SEO [PHP]</a></li>
  </ul>
