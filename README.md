@@ -1,34 +1,34 @@
+# Hey, I'm Kaio
 
- <div style="display: inline_block;">
-  <h1> 
-    Hey, I'm Kaio!
-    <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img align="right" alt="kaiopiola-icon" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/kaiopiola/kaiopiola/main/icon_transparente.png"> </a>
- </h1>
+Welcome to my GitHub profile.
 
- <p>Welcome to my GitHub profile!</p>
- <img src="https://komarev.com/ghpvc/?username=kaiopiola&color=green" style="display:none">
- <p>Here you can find my projects and other repositories where I worked!</p>
- <p>Feel free to explore the projects and contact me if needed! My contacts can be found in the GitHub contacts, at the end of this document, and in my <a href="https://kaiopiola.dev" target="_blank">own website</a>!</p>
- 
- <p>All repositories listed here are open source and can be used according to the license of each one (LICENSE file).</p>
+![](https://komarev.com/ghpvc/?username=kaiopiola&color=green)
 
-<p>You can help us with projects by collaborating with code or answering questions in the discussion sections or issues of each project.</p>
- 
- <p>Some things I'm currently doing:</p>
- <ul style="list-style-type:none;">
-    <li>📍Living in Brazil</li>
-    <li>🔭 Working on the project <a href="https://github.com/kaiopiola/pagarme-php">Pagarme PHP Package</a>!</li>
-<!--     <li>🔍 Working on open source PHP packages <a href="https://github.com/kaiopiola/keygen-package">Keygen</a> and <a href="https://github.com/kaiopiola/seo-package">SEO</a></li> -->
-    <li>🎓 Studying System Analysis and Development at <a href="https://www.cruzeirodosulvirtual.com.br/">Cruzeiro do Sul Virtual</a></li>
-    <li>🐘 Improving my PHP skills</li>
-    <li>📱 Learning React Native</li>
-    <li>🪟 Learning Csharp</li>
-    <!--<li>🌱 Studying Linux Fundamentals at <a href="https://github.com/4linux">4Linux</a></li>-->
-  </ul>
- 
- <p>I'm also translator and reviewer for <a href="https://www.debian.org/" target="_blank">The Debian Project</a> for the pt_BR language.</p>
-  
-  <div style="display: inline_block"><br>
+![KaioPiola's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiopiola&show_icons=true&theme=dark)
+
+Here you can find my projects and other repositories where I've worked.
+
+Feel free to explore the projects and contact me if needed. My contacts can be found in the GitHub contacts, at the end of this document, and in my [own website](https://kaiopiola.dev/).
+
+All repositories listed here are open source and can be used according to the license of each one (LICENSE file).
+
+You can help me with my projects by collaborating with code or answering questions in the discussion sections or issues of each project, and also reporting bugs.
+
+Some random things I'm currently doing:
+
+- 📍Living in Brazil
+
+- 🔭 Working on the project [Pagarme PHP Package](https://github.com/kaiopiola/pagarme-php)
+
+- 🎓 Studying System Analysis and Development at [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/)
+
+- 🐘 Improving my PHP skills
+
+
+
+I'm also translator and reviewer for [The Debian Project](https://www.debian.org/) for the pt_BR language.
+
+<div style="display: inline_block"><br>
 <img align="center" alt="Kaio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
     <img align="center" alt="Kaio-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg">
         <img align="center" alt="Kaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg">
@@ -47,102 +47,49 @@
    <img align="center" alt="Kaio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
     <img align="center" alt="Kaio-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Kaio-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
-   
-  </div>
-</div>
 
+## My PHP Packages
 
+- [Pagarme [PHP] (On development)](https://github.com/kaiopiola/pagarme-php)
+- [Keygen [PHP]](https://github.com/kaiopiola/keygen-package)
+- [SEO [PHP]](https://github.com/kaiopiola/seo-package)
 
+## My Articles
 
- <div style="display: inline_block;">
-  <h2> 
-    My PHP packages
- </h2>
- <ul>
-  <li><a target="_blank" href="https://github.com/kaiopiola/pagarme-php">Pagarme [PHP] (On development)</a></li>
-  <li><a target="_blank" href="https://github.com/kaiopiola/keygen-package">Keygen [PHP]</a></li>
-  <li><a target="_blank" href="https://github.com/kaiopiola/seo-package">SEO [PHP]</a></li>
- </ul>
- </div>
- 
- <div style="display: inline_block;">
-  <h2> 
-    My Articles (PTBR)
- </h2>
- <ul>
-  <li><a target="_blank" href="https://www.tabnews.com.br/KaioPiola/guia-definitivo-para-estruturacao-de-commits">📝 Guia Definitivo para Estruturação de Commits</a> / <a href="https://gist.github.com/kaiopiola/41ed9844cf35e44031a0d1601161d6c4">GIST</a></li>
- </ul>
- </div>
+- [📝 (PT-BR) Guia Definitivo para Estruturação de Commits](https://www.tabnews.com.br/KaioPiola/guia-definitivo-para-estruturacao-de-commits) / [GIST](https://gist.github.com/kaiopiola/41ed9844cf35e44031a0d1601161d6c4)
+- [📝 (EN) Definitive Guide to Structuring Commits](https://blog.kaiopiola.dev/2023/11/definitive-guide-to-structuring-commits.html)
 
-  <div style="display: inline_block;">
-  <h2> 
-    My Articles (EN)
- </h2>
- <ul>
-  <li><a target="_blank" href="https://blog.kaiopiola.dev/2023/11/definitive-guide-to-structuring-commits.html">📝 Definitive Guide to Structuring Commits</a></li>
- </ul>
- </div>
+## Useful Links
 
-  <div style="display: inline_block;">
-  <h2> 
-    Useful Links
- </h2>
- <ul>
-  <li><a target="_blank" href="https://github.com/ocodista/trampar-de-casa/blob/main/manifesto.md">Manifesto do Trabalho Remoto</a></li>
-  <li><a target="_blank" href="https://www.gnu.org/gnu/manifesto.pt-br.html">Manifesto GNU</a></li>
- </ul>
- </div>
+- [My packagist](https://packagist.org/packages/kaiopiola/)
+- [Me on Tabnews](https://www.tabnews.com.br/KaioPiola)
+- [Me on StackOverflow](https://stackoverflow.com/users/11861004/kaio-piola)
+- [Manifesto do Trabalho Remoto (By Caio Borghi)](https://github.com/ocodista/trampar-de-casa/blob/main/manifesto.md)
+- [Manifesto GNU (Richard Stallman)](https://www.gnu.org/gnu/manifesto.pt-br.html)
 
+## Contact
 
-
-<!--<div align="center">
-  <a href="https://github.com/kaiopiola">
-    <table style="border: none !important;" cellspacing="0" cellpadding="0">
-  <tr style="border: none !important;">
-  <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiopiola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></td>
-  <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiopiola&layout=compact&langs_count=7&theme=dark"/></td>
-    </tr>
-  </table>
-  </a>
-</div>-->
-
-<div align="center">
+<div align="left">
  <a href="https://t.me/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23314d8f?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <!--<a href="https://instagram.com/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
   <a href = "mailto:contact@kaiopiola.dev"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div>
- <p>For e-mail contact, please prefer sending encrypted and signed mail if possible.</br>
- My current active PGP key is <code>rsa4096/2B8B27C966DFA994</code></br>
- You can download my public key by <a href="https://kaiopiola.dev/rsa-key.txt">clicking here</a>.
-</p>
-</div>
 
-<hr>
+For e-mail contact, please prefer sending encrypted and signed mail if possible.  
+My PGP key is `rsa4096/2B8B27C966DFA994`  
+You can download my public key by [clicking here](https://kaiopiola.dev/rsa-key.txt).
 
-<div align="center"> 
-  <i>I believe in elePHPant supremacy! 🐘</i>
-</div>
+Lookup this key on both links below:
 
-<br>
+- [keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=2B8B27C966DFA994&fingerprint=on&op=index)
+- [pgp.surfnet.nl](https://pgp.surfnet.nl/pks/lookup?search=2B8B27C966DFA994&fingerprint=on&op=index)
 
-<div style="display:flex;" align="center">
-<a href="https://my.fsf.org/donate"><img src="https://static.fsf.org/nosvn/appeal2022/spring/social-banner.png" alt="Find your reason to support free software."></a>
-</div>
-  
-<!--
-**kaiopiola/kaiopiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can also download my public key by [clicking here](https://kaiopiola.dev/rsa-key.txt).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Find your reason to support free software.](https://static.fsf.org/nosvn/appeal2022/spring/social-banner.png)](https://my.fsf.org/donate)
+
+
