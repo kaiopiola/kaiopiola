@@ -6,9 +6,9 @@ Welcome to my GitHub profile.
 
 ![KaioPiola's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiopiola&show_icons=true&theme=dark)
 
-Here you can find my projects and other repositories where I've worked.
+Here you can find my personal projects and other repositories where I've worked.
 
-Feel free to explore the projects and contact me if needed. My contacts can be found in the GitHub contacts, at the end of this document, and in my [own website](https://kaiopiola.dev/).
+Feel free to explore the projects and contact me if needed. My contacts can be found in the GitHub contacts, at the end of this document, and in my [website](https://kaiopiola.dev/).
 
 All repositories listed here are open source and can be used according to the license of each one (LICENSE file).
 
@@ -18,11 +18,13 @@ Some random things I'm currently doing:
 
 - 📍Living in Brazil
 
-- 🔭 Working on the project [Pagarme PHP Package](https://github.com/kaiopiola/pagarme-php)
+- 🔭 Working on the project [Quartz Companion](https://github.com/kaiopiola/quartzcompanion)
+
+- 📱 Learning Flutter
 
 - 🎓 Studying System Analysis and Development at [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/)
 
-- 🐘 Improving my PHP skills
+- 🐘 Improving my developer skills
 
 
 
@@ -50,11 +52,11 @@ I'm also translator and reviewer for [The Debian Project](https://www.debian.or
     <img align="center" alt="Kaio-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Kaio-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
 
-## My PHP Packages
+## Some Interesting Projects
 
+- [Quartz Companion](https://kaiopiola.dev/quartzcompanion)
 - [Pagarme [PHP] (On development)](https://github.com/kaiopiola/pagarme-php)
 - [Keygen [PHP]](https://github.com/kaiopiola/keygen-package)
-- [SEO [PHP]](https://github.com/kaiopiola/seo-package)
 
 ## My Articles
 
@@ -77,18 +79,6 @@ I'm also translator and reviewer for [The Debian Project](https://www.debian.or
   <a href = "mailto:contact@kaiopiola.dev"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-For e-mail contact, please prefer sending encrypted and signed mail if possible.  
-My PGP key is `rsa4096/2B8B27C966DFA994`  
-You can download my public key by [clicking here](https://kaiopiola.dev/rsa-key.txt).
-
-Lookup this key on both links below:
-
-- [keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=2B8B27C966DFA994&fingerprint=on&op=index)
-- [pgp.surfnet.nl](https://pgp.surfnet.nl/pks/lookup?search=2B8B27C966DFA994&fingerprint=on&op=index)
-
-You can also download my public key by [clicking here](https://kaiopiola.dev/rsa-key.txt).
 
 ---
 
