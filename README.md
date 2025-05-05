@@ -58,6 +58,9 @@ I'm also translator and reviewer for [The Debian Project](https://www.debian.or
 - [Pagarme [PHP] (On development)](https://github.com/kaiopiola/pagarme-php)
 - [Keygen [PHP]](https://github.com/kaiopiola/keygen-package)
 
+## Apps
+- [Quartz Companion - Android](https://play.google.com/store/apps/details?id=com.kaiopiola.quartzcompanion)
+
 ## My Articles
 
 - [📝 (PT-BR) Guia Definitivo para Estruturação de Commits](https://www.tabnews.com.br/KaioPiola/guia-definitivo-para-estruturacao-de-commits) / [GIST](https://gist.github.com/kaiopiola/41ed9844cf35e44031a0d1601161d6c4)
